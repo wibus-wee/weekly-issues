@@ -75,3 +75,11 @@ ok 我先不管这个，但他也不是个做开源的，永远都不管issues�
 <img width="1183" alt="image" src="https://user-images.githubusercontent.com/62133302/200162896-11f476a3-8998-49b2-b08a-d36bff12900d.png">
 
 > Repo: https://github.com/liyupi/rubbish-yingxiaohao
+
+---
+
+更新：
+
+<img width="1379" alt="image" src="https://user-images.githubusercontent.com/62133302/200163976-3eece1ee-d07c-4d81-8965-6eee2fffac2e.png">
+
+ 可恶，把他惹生气了呜呜呜😩
