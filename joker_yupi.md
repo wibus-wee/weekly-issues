@@ -1,5 +1,13 @@
 # 关于B站“知名”鱼皮 UP 主，我对他的看法
 
+<details>
+  <summary>吐槽一下 Profile</summary>
+  <img width="387" alt="image" src="https://user-images.githubusercontent.com/62133302/200162966-595acf8c-ba45-4927-a7a1-9965d0bea89b.png">
+</details>
+
+这怎么还有语法错误的，一个句子俩谓语，这搁英文歌词也不能这么写吧
+
+
 总结一下吧：**它不是一个人**
 
 ```
@@ -29,18 +37,30 @@ ok 我先不管这个，但他也不是个做开源的，永远都不管issues�
 
 你要是跟我急说他没经验我更不理解了，一个做了这么多成熟项目的人，拿到了这么多个 star 的人，真的没经验吗？没经验这个借口是不攻自破的好吧。
 
+<details>
+  <summary>一堆的 issues 节选</summary>
+  
 <img width="600" alt="501c041194f336077ca5db3795043633" src="https://user-images.githubusercontent.com/62133302/200162226-a51c4229-307e-40a5-945e-aab141ca86c7.png">
 
 > URL: https://github.com/liyupi/sql-father-frontend-public/issues
+  
+  
+</details>
 
 他又不是不在线，走了，sql father刚刚才出诶，issues这就不管了啊？有bug 就修 没时间我觉得标注个bug babel也好，issues 不成立就丢个invalid babel 就 closed，就标注一下做个这个很难吗？
 
 这是 Issues 方面，还有 PR 方面
 
+<details>
+  <summary>PR 节选两个具有代表性的</summary>
+  
 <img width="600" alt="165f2801324f5822de08bd37220ae4df" src="https://user-images.githubusercontent.com/62133302/200162297-9437d190-7eb2-40cf-b56f-14e2705f016a.png">
 
 > - https://github.com/liyupi/yuindex/pull/52
 > - https://github.com/liyupi/yuindex/pull/56
+  
+  
+</details>
 
 就这俩举例，人家都改完了，他又不理了，就搞个changes request摆在那里，这是做开源的？
 
