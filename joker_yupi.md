@@ -5,10 +5,10 @@
   <img width="387" alt="image" src="https://user-images.githubusercontent.com/62133302/200162966-595acf8c-ba45-4927-a7a1-9965d0bea89b.png">
 </details>
 
-这怎么还有语法错误的，一个句子俩谓语，这搁英文歌词也不能这么写吧
+~~这怎么还有语法错误的，一个句子俩谓语，这搁英文歌词也不能这么写吧~~
 
 
-总结一下吧：**它不是一个人**
+## 鱼皮，它不是一个人
 
 ```
 wibus: 鱼皮？
@@ -32,6 +32,10 @@ yupi的产出速度太快了，他的每个项目都很全面，前后端都写�
 在其他地方你能看到谁也是这么快就产出一个项目的人？几乎没有吧？
 
 因此，我觉得 **「鱼皮」不是一个人**
+
+---
+
+## 即使是一个人，他也不是真的做开源的
 
 ok 我先不管这个，但他也不是个做开源的，永远都不管issues，你跟我说这是做开源？commit messages 让人不知道在干嘛 不是 first commit 就是稀奇古怪的计数式commit message，这是会做开源的人吗？
 
@@ -82,4 +86,18 @@ ok 我先不管这个，但他也不是个做开源的，永远都不管issues�
 
 <img width="1379" alt="image" src="https://user-images.githubusercontent.com/62133302/200163976-3eece1ee-d07c-4d81-8965-6eee2fffac2e.png">
 
- 可恶，把他惹生气了呜呜呜😩
+---
+
+最新的情况是 这个仓库的所有权转让了，全部star还有watch都不见了，包括PR记录也没了，从 liyupi/rubbish-yingxiaohao 转到 Forest1sland/rubbish-yingxiaohao 了，至于这个 Forest1sland 是什么奇怪的账号我就不探究了，这也不关我事，至少他就是玩不起了。
+
+详情可以看看我的朋友荆棘写的这篇文章：https://github.com/jsun969/rubbish-yingxiaohao/tree/article
+
+或者在掘金上你也可以找到它 https://juejin.cn/post/7163065667590029348
+
+讲真的，除了转让所有权之外，最让我感到意外的是他revert了所有的commit，并且 **所有的 PR、Issues 都消失了，所有的贡献者不复存在** 。你想一下这是做开源项目的吗？
+
+别人代码提交 他全然不管，但是修改一个影响到他的利益，他恨不得全网封杀你，那个 PR 关的比谁都快，鱼皮哥，真的，别装了。你只写新项目，却不接受 PR，那你搞什么开源呢？
+
+> 我是说大部分，有一丢丢丢丢丢 PR 和 issues 是理的，至于这个量嘛...我觉得我便秘好了他都没回复一个...
+
+所以我说，👍 他是懂维护开源项目的
