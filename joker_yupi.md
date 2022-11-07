@@ -1,5 +1,7 @@
 # 关于B站“知名”鱼皮 UP 主，我对他的看法
 
+首先，我要先说一件事： **文章带有严重主观色彩，这是没有办法的，但这篇文章所描述的就是在我眼里的yupi，如果你有合理的论据可以反对我对他的看法的，非常欢迎你拿着理智和论据来与我讨论**
+
 <details>
   <summary>吐槽一下 Profile</summary>
   <img width="387" alt="image" src="https://user-images.githubusercontent.com/62133302/200162966-595acf8c-ba45-4927-a7a1-9965d0bea89b.png">
