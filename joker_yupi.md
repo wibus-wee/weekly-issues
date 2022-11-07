@@ -1,6 +1,8 @@
 # 关于B站“知名”鱼皮 UP 主，我对他的看法
 
-首先，我要先说一件事： **文章带有严重主观色彩，这是没有办法的，但这篇文章所描述的就是在我眼里的yupi，如果你有合理的论据可以反对我对他的看法的，非常欢迎你拿着理智和论据来与我讨论**
+首先，我要先说一件事： **文章带有严重主观色彩，这是没有办法的，但无论如何，这篇文章所描述的就是在 _我眼里的yupi_，如果你有合理的论据可以反对我对他的看法的，非常欢迎你拿着理智和论据来与我讨论**
+
+此文永远备份于 GitHub：https://github.com/wibus-wee/weekly-issues/blob/main/joker_yupi.md
 
 <details>
   <summary>吐槽一下 Profile</summary>
@@ -88,13 +90,14 @@ ok 我先不管这个，但他也不是个做开源的，永远都不管issues�
 
 <img width="1379" alt="image" src="https://user-images.githubusercontent.com/62133302/200163976-3eece1ee-d07c-4d81-8965-6eee2fffac2e.png">
 
----
 
-最新的情况是 这个仓库的所有权转让了，全部star还有watch都不见了，包括PR记录也没了，从 liyupi/rubbish-yingxiaohao 转到 Forest1sland/rubbish-yingxiaohao 了，至于这个 Forest1sland 是什么奇怪的账号我就不探究了，这也不关我事，至少他就是玩不起了。
-
-详情可以看看我的朋友荆棘写的这篇文章：https://github.com/jsun969/rubbish-yingxiaohao/tree/article
+有关这个事情的全部，你可以看看我的朋友 [@Justin Sun](https://github.com/jsun969) 写的这篇文章：https://github.com/jsun969/rubbish-yingxiaohao/tree/article
 
 或者在掘金上你也可以找到它 https://juejin.cn/post/7163065667590029348
+
+V2EX 上也发表了：https://www.v2ex.com/t/893205
+
+最新的情况是 这个仓库的所有权转让了，全部star还有watch都不见了，包括PR记录也没了，从 liyupi/rubbish-yingxiaohao 转到 Forest1sland/rubbish-yingxiaohao 了，至于这个 Forest1sland 是什么奇怪的账号我就不探究了，这也不关我事，至少他就是玩不起了。
 
 讲真的，除了转让所有权之外，最让我感到意外的是他revert了所有的commit，并且 **所有的 PR、Issues 都消失了，所有的贡献者不复存在** 。你想一下这是做开源项目的吗？
 
